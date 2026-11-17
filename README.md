@@ -14,4 +14,6 @@ Software developer with four years of experience in software development and IT 
 
 ## Contact
 
+Hohenwarth, Bavaria, Germany · open to full-time roles, remote or on-site nearby
+
 [LinkedIn](https://www.linkedin.com/in/stefan-wei%C3%9F-01414a245)
