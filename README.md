@@ -1,9 +1,9 @@
 # Stefan Weiss
 
-Software developer with four years of experience in software development and IT support. I build software where IT meets manufacturing: machine data acquisition, automation and tooling around production, including hands-on work with 3D printing (PrusaSlicer).
+Software developer and IT administrator. I build tools and services in Python, C++ and Docker, with a focus on machine data and automation.
 
 **Languages & tools:** Python · C++ · Swift · TypeScript · SQL · Docker · Git / GitHub Actions
-**Industrial:** OPC UA · OEE / machine data · PostgreSQL · Grafana · 3D printing (PrusaSlicer)
+**Industrial & infrastructure:** OPC UA · OEE / machine data · PostgreSQL · Grafana · servers, networking, NAS
 
 ## Projects
 
@@ -14,6 +14,4 @@ Software developer with four years of experience in software development and IT 
 
 ## Contact
 
-Hohenwarth, Bavaria, Germany · open to full-time roles, remote or on-site nearby
-
-[LinkedIn](https://www.linkedin.com/in/stefan-wei%C3%9F-01414a245)
+Hohenwarth, Bavaria, Germany · [LinkedIn](https://www.linkedin.com/in/stefan-wei%C3%9F-01414a245)
