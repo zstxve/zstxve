@@ -12,6 +12,8 @@ Software developer and IT administrator. I build tools and services in Python, C
 - **[Avareno](https://github.com/zstxve/Avareno)**: web app for receipts, warranties and documents of the things you own; FastAPI, React, Docker on Fly.io, in closed beta.
 - **[pressure-pilot](https://github.com/zstxve/pressure-pilot)**: macOS menu bar app that frees RAM under memory pressure by freezing or quitting expendable apps.
 
+More: [machine-learning-notebooks](https://github.com/zstxve/machine-learning-notebooks), PyTorch and scikit-learn notebooks from my machine learning studies.
+
 ## Contact
 
 Hohenwarth, Bavaria, Germany · [LinkedIn](https://www.linkedin.com/in/stefan-wei%C3%9F-01414a245)
