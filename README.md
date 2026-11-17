@@ -14,4 +14,4 @@ Software developer with four years of experience in software development and IT 
 
 ## Contact
 
-<!-- TODO: location, e-mail, LinkedIn -->
+[LinkedIn](https://www.linkedin.com/in/stefan-wei%C3%9F-01414a245)
